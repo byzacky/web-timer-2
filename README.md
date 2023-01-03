@@ -1,4 +1,4 @@
-## Timer WEbsite!
+## Timer Website!
 
 ## 📑 Features
 
